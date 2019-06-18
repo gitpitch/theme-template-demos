@@ -6,9 +6,8 @@ This repo contains a number of sample GitPitch slide decks that demonstrate cust
 
 ### Default Theme Template Demo
 
-<a target="_blank" href="https://gitpitch.com/gitpitch/theme-template-demos/master?p=decks/default">
 ![SAMPLE DECK](doc/img/theme-template-sample-default.jpg)
-</a>
+To view this sample slide deck in your browser, click <a target="_blank" href="https://gitpitch.com/gitpitch/theme-template-demos/master?p=decks/default">here</a>.
 
 
 ### Blue Theme Template Demo
