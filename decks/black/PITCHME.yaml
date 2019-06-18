@@ -16,8 +16,8 @@ theme-controls   : [ "#C0C0C0" ]
 theme-code       : [ "Fira Code" ]
 
 highlight        : ir-black
+theme-override   : assets/css/PITCHME.css
 
 published : true
 logo: assets/img/logo.png
-theme-override   : assets/css/PITCHME.css
 footnote: "GitPitch Theme Template Sample Deck"
