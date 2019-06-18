@@ -1,0 +1,5 @@
+.border-dashed-gray {
+  border-radius: 16px;
+  border: 1px dashed #ccc !important;
+}
+

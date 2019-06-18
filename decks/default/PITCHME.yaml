@@ -1,0 +1,25 @@
+#
+# GitPitch Theme Template Sample Slide Deck
+#
+# Theme Template details in the docs:
+# https://gitpitch.com/docs/theme/default
+#
+
+theme            : template
+
+theme-background : [ "#FFF" ]
+theme-headline   : [ "Raleway", "#5289F7", "none" ]
+theme-byline     : [ "Raleway", "#111111", "none" ]
+theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
+theme-links      : [ "#5289F7", "#5254F7" ]
+theme-code       : [ "Source Code Pro" ]
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
+
+highlight : tomorrow
+
+published : true
+logo: assets/img/logo.png
+theme-override   : assets/css/PITCHME.css
+footnote: "GitPitch Theme Template Sample Deck"
+
