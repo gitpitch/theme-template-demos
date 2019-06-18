@@ -1,0 +1,10 @@
+.border-solid-gray {
+  border-radius: 16px;
+  border: 1px solid #C0C0C0 !important;
+}
+
+.border-dashed-gray {
+  border-radius: 16px;
+  border: 1px dashed #C0C0C0 !important;
+}
+

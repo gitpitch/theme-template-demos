@@ -1,0 +1,23 @@
+#
+# GitPitch Theme Template Sample Slide Deck
+#
+# Theme Template details in the docs:
+# https://gitpitch.com/docs/theme/default
+#
+
+theme            : template
+
+theme-background : [ "#5289F7" ]
+theme-headline   : [ "Work Sans", "white", "none" ]
+theme-byline     : [ "Work Sans", "black", "none" ]
+theme-text       : [ "Lato", "#F5FFFA", "none" ]
+theme-links      : [ "#FF851B", "#E27924" ]
+theme-controls   : [ "#484848" ]
+theme-code       : [ "Inconsolata" ]
+
+highlight        : ir-black
+theme-override   : assets/css/PITCHME.css
+
+published : true
+logo: assets/img/logo.png
+footnote: "GitPitch Theme Template Sample Deck"
