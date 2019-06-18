@@ -39,7 +39,7 @@ Customize the slide background, fonts, colors, and more.
 ---
 @title[Code Optimized]
 
-@code[php zoom-16](src/php/sample.php)
+@code[php zoom-15](src/php/sample.php)
 
 @snap[south span-100]
 @[1,4-6,11](Template `code` slides are space-optimized and color-blended.)
