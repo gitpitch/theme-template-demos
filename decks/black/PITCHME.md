@@ -39,7 +39,7 @@ Customize the slide background, fonts, colors, and more.
 ---
 @title[Code Optimized]
 
-@code[go zoom-21](src/go/sample.go)
+@code[go zoom-20](src/go/sample.go)
 
 @snap[south span-100]
 @[2-5](Template `code` slides are space-optimized and color-blended.)

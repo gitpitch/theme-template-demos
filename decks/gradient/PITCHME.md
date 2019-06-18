@@ -39,7 +39,7 @@ Customize the slide background, fonts, colors, and more.
 ---
 @title[Code Optimized]
 
-@code[elixir zoom-28](src/elixir/sample.ex)
+@code[elixir zoom-26](src/elixir/sample.ex)
 
 @snap[south span-100]
 @[1,2,7](Template `code` slides are space-optimized and color-blended.)
