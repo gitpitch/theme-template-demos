@@ -22,7 +22,7 @@ theme-override   : assets/css/PITCHME.css
 published : true
 logo: assets/img/logo.png
 title : "GitPitch Theme Template"
-description : "Simple, fast theme customization for modern developer slide decks."
+description : "Simple, fast theme customization for modern developer slide decks on GitHub, GitLab, and Bitbucket."
 thumbnail : assets/img/theme-template-thumb.jpg
 footnote: "GitPitch Theme Template Sample Deck"
 
