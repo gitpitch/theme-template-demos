@@ -1,0 +1,26 @@
+#
+# GitPitch Theme Template Sample Slide Deck
+#
+# Theme Template details in the docs:
+# https://gitpitch.com/docs/theme/default
+#
+
+theme            : template
+
+theme-background : [ "linear-gradient(100deg, white 90%, #BE5869 10%)" ]
+theme-headline   : [ "Montserrat", "#BE5869", "none" ]
+theme-byline     : [ "Montserrat", "#111111", "none" ]
+theme-text       : [ "Raleway", "#333", "none" ]
+theme-links      : [ "#7FDBFF", "#0074D9" ]
+theme-controls   : [ "#C0C0C0" ]
+theme-code       : [ "Victor Mono Italic" ]
+
+highlight        : tomorrow
+theme-override   : assets/css/PITCHME.css
+
+published : true
+logo: assets/img/logo.png
+title : "GitPitch Theme Template"
+description : "Simple, fast theme customization for modern developer slide decks. Set custom backgrounds, fonts, colors, and more."
+thumbnail : assets/img/fun-code-thumb.jpg
+footnote: "GitPitch Theme Template Sample Deck"
